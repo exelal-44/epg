@@ -1,0 +1,495 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V5.3.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="ABC Australia - [Channel 350]">
+    <display-name lang="id">ABC Australia - [Channel 350]</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="Al Jazeera English - [Channel 331]">
+    <display-name lang="id">Al Jazeera English - [Channel 331]</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="Al Quran Al Kareem - [Channel 93]">
+    <display-name lang="id">Al Quran Al Kareem - [Channel 93]</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="Animax - [Channel 157]">
+    <display-name lang="id">Animax - [Channel 157]</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="ANTV - [Channel 115]">
+    <display-name lang="id">ANTV - [Channel 115]</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="Arirang - [Channel 351]">
+    <display-name lang="id">Arirang - [Channel 351]</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="AXN - [Channel 154]">
+    <display-name lang="id">AXN - [Channel 154]</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="AXN HD - [Channel 438]">
+    <display-name lang="id">AXN HD - [Channel 438]</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="BBC Earth - [Channel 200]">
+    <display-name lang="id">BBC Earth - [Channel 200]</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="BBC Earth HD - [Channel 461]">
+    <display-name lang="id">BBC Earth HD - [Channel 461]</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="BBC World News - [Channel 332]">
+    <display-name lang="id">BBC World News - [Channel 332]</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="Bloomberg - [Channel 338]">
+    <display-name lang="id">Bloomberg - [Channel 338]</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="BTV - [Channel 103]">
+    <display-name lang="id">BTV - [Channel 103]</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="CBeebies - [Channel 41]">
+    <display-name lang="id">CBeebies - [Channel 41]</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="CCM - [Channel 22]">
+    <display-name lang="id">CCM - [Channel 22]</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="Celebrities TV - [Channel 96]">
+    <display-name lang="id">Celebrities TV - [Channel 96]</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="Celestial Movies - [Channel 20]">
+    <display-name lang="id">Celestial Movies - [Channel 20]</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="CGTN - [Channel 353]">
+    <display-name lang="id">CGTN - [Channel 353]</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="CGTN Documentary - [Channel 205]">
+    <display-name lang="id">CGTN Documentary - [Channel 205]</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="Channel News Asia - [Channel 330]">
+    <display-name lang="id">Channel News Asia - [Channel 330]</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="CINEMACHI - [Channel 7]">
+    <display-name lang="id">CINEMACHI - [Channel 7]</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="CINEMACHI ACTION - [Channel 8]">
+    <display-name lang="id">CINEMACHI ACTION - [Channel 8]</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="CINEMACHI ACTION HD - [Channel 402]">
+    <display-name lang="id">CINEMACHI ACTION HD - [Channel 402]</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="CINEMACHI HD - [Channel 401]">
+    <display-name lang="id">CINEMACHI HD - [Channel 401]</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="CINEMACHI KIDS - [Channel 9]">
+    <display-name lang="id">CINEMACHI KIDS - [Channel 9]</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="CINEMACHI KIDS HD - [Channel 403]">
+    <display-name lang="id">CINEMACHI KIDS HD - [Channel 403]</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="CINEMACHI MAX - [Channel 10]">
+    <display-name lang="id">CINEMACHI MAX - [Channel 10]</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="CINEMACHI MAX HD - [Channel 404]">
+    <display-name lang="id">CINEMACHI MAX HD - [Channel 404]</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="CINEMACHI XTRA - [Channel 6]">
+    <display-name lang="id">CINEMACHI XTRA - [Channel 6]</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="CINEMACHI XTRA HD - [Channel 405]">
+    <display-name lang="id">CINEMACHI XTRA HD - [Channel 405]</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="CNBC - [Channel 337]">
+    <display-name lang="id">CNBC - [Channel 337]</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="Crime Investigation - [Channel 207]">
+    <display-name lang="id">Crime Investigation - [Channel 207]</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="Dreamworks - [Channel 47]">
+    <display-name lang="id">Dreamworks - [Channel 47]</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="DW English - [Channel 357]">
+    <display-name lang="id">DW English - [Channel 357]</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="Entertainment - [Channel 86]">
+    <display-name lang="id">Entertainment - [Channel 86]</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="EURONEWS - [Channel 333]">
+    <display-name lang="id">EURONEWS - [Channel 333]</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="Fight Sports - [Channel 304]">
+    <display-name lang="id">Fight Sports - [Channel 304]</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="FMN - [Channel 150]">
+    <display-name lang="id">FMN - [Channel 150]</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="FOX News - [Channel 335]">
+    <display-name lang="id">FOX News - [Channel 335]</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="France 24 English - [Channel 352]">
+    <display-name lang="id">France 24 English - [Channel 352]</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="Galaxy - [Channel 13]">
+    <display-name lang="id">Galaxy - [Channel 13]</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="Galaxy Premium - [Channel 12]">
+    <display-name lang="id">Galaxy Premium - [Channel 12]</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="Global Trekker - [Channel 201]">
+    <display-name lang="id">Global Trekker - [Channel 201]</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="GTV - [Channel 81]">
+    <display-name lang="id">GTV - [Channel 81]</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="GTV HD - [Channel 431]">
+    <display-name lang="id">GTV HD - [Channel 431]</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="History - [Channel 206]">
+    <display-name lang="id">History - [Channel 206]</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="HITS - [Channel 160]">
+    <display-name lang="id">HITS - [Channel 160]</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="HITS MOVIES - [Channel 11]">
+    <display-name lang="id">HITS MOVIES - [Channel 11]</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="HITS MOVIES HD - [Channel 409]">
+    <display-name lang="id">HITS MOVIES HD - [Channel 409]</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="IDX - [Channel 100]">
+    <display-name lang="id">IDX - [Channel 100]</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="IDX HD - [Channel 436]">
+    <display-name lang="id">IDX HD - [Channel 436]</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="IMC - [Channel 14]">
+    <display-name lang="id">IMC - [Channel 14]</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="Indosiar - [Channel 78]">
+    <display-name lang="id">Indosiar - [Channel 78]</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="iNews - [Channel 83]">
+    <display-name lang="id">iNews - [Channel 83]</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="iNews HD - [Channel 433]">
+    <display-name lang="id">iNews HD - [Channel 433]</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="JAKTV - [Channel 113]">
+    <display-name lang="id">JAKTV - [Channel 113]</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="Kids TV - [Channel 46]">
+    <display-name lang="id">Kids TV - [Channel 46]</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="KIX - [Channel 161]">
+    <display-name lang="id">KIX - [Channel 161]</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="Kompas TV - [Channel 106]">
+    <display-name lang="id">Kompas TV - [Channel 106]</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="LIFE - [Channel 91]">
+    <display-name lang="id">LIFE - [Channel 91]</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="Lifetime - [Channel 167]">
+    <display-name lang="id">Lifetime - [Channel 167]</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="Love Nature - [Channel 204]">
+    <display-name lang="id">Love Nature - [Channel 204]</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="Love Nature HD - [Channel 463]">
+    <display-name lang="id">Love Nature HD - [Channel 463]</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="Metro TV - [Channel 107]">
+    <display-name lang="id">Metro TV - [Channel 107]</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="MNCTV - [Channel 82]">
+    <display-name lang="id">MNCTV - [Channel 82]</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="MNCTV HD - [Channel 432]">
+    <display-name lang="id">MNCTV HD - [Channel 432]</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="MTV 90's - [Channel 149]">
+    <display-name lang="id">MTV 90's - [Channel 149]</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="MTV LIVE - [Channel 148]">
+    <display-name lang="id">MTV LIVE - [Channel 148]</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="Music TV - [Channel 111]">
+    <display-name lang="id">Music TV - [Channel 111]</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="Muslim TV - [Channel 92]">
+    <display-name lang="id">Muslim TV - [Channel 92]</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="My Cinema - [Channel 16]">
+    <display-name lang="id">My Cinema - [Channel 16]</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="My Cinema Asia - [Channel 17]">
+    <display-name lang="id">My Cinema Asia - [Channel 17]</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="My Family - [Channel 15]">
+    <display-name lang="id">My Family - [Channel 15]</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="My Kidz - [Channel 50]">
+    <display-name lang="id">My Kidz - [Channel 50]</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="NET TV - [Channel 116]">
+    <display-name lang="id">NET TV - [Channel 116]</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="NHK World - [Channel 355]">
+    <display-name lang="id">NHK World - [Channel 355]</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="NHK World Premium - [Channel 354]">
+    <display-name lang="id">NHK World Premium - [Channel 354]</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="Nick Jr. HD - [Channel 472]">
+    <display-name lang="id">Nick Jr. HD - [Channel 472]</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="Nickelodeon - [Channel 49]">
+    <display-name lang="id">Nickelodeon - [Channel 49]</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="Nickelodeon Jr - [Channel 37]">
+    <display-name lang="id">Nickelodeon Jr - [Channel 37]</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="OK TV - [Channel 95]">
+    <display-name lang="id">OK TV - [Channel 95]</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="Okezone TV - [Channel 90]">
+    <display-name lang="id">Okezone TV - [Channel 90]</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="ONE - [Channel 164]">
+    <display-name lang="id">ONE - [Channel 164]</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="ONE HD - [Channel 445]">
+    <display-name lang="id">ONE HD - [Channel 445]</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="Outdoor Channel - [Channel 202]">
+    <display-name lang="id">Outdoor Channel - [Channel 202]</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="Outdoor channel HD - [Channel 460]">
+    <display-name lang="id">Outdoor channel HD - [Channel 460]</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="PARAMOUNT - [Channel 163]">
+    <display-name lang="id">PARAMOUNT - [Channel 163]</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="PARAMOUNT HD - [Channel 441]">
+    <display-name lang="id">PARAMOUNT HD - [Channel 441]</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="RCTI - [Channel 80]">
+    <display-name lang="id">RCTI - [Channel 80]</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="RCTI HD - [Channel 430]">
+    <display-name lang="id">RCTI HD - [Channel 430]</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="Rock Action - [Channel 248]">
+    <display-name lang="id">Rock Action - [Channel 248]</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="Rock Entertainment - [Channel 240]">
+    <display-name lang="id">Rock Entertainment - [Channel 240]</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="SCTV - [Channel 89]">
+    <display-name lang="id">SCTV - [Channel 89]</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="SEA TODAY - [Channel 336]">
+    <display-name lang="id">SEA TODAY - [Channel 336]</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="Sindo News TV - [Channel 84]">
+    <display-name lang="id">Sindo News TV - [Channel 84]</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="Sindo News TV HD - [Channel 434]">
+    <display-name lang="id">Sindo News TV HD - [Channel 434]</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="Soccer Channel - [Channel 101]">
+    <display-name lang="id">Soccer Channel - [Channel 101]</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="Soccer Channel HD - [Channel 420]">
+    <display-name lang="id">Soccer Channel HD - [Channel 420]</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="Sportstars - [Channel 102]">
+    <display-name lang="id">Sportstars - [Channel 102]</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="Sportstars 2 - [Channel 98]">
+    <display-name lang="id">Sportstars 2 - [Channel 98]</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="Sportstars 2 HD - [Channel 422]">
+    <display-name lang="id">Sportstars 2 HD - [Channel 422]</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="Sportstars 3 - [Channel 99]">
+    <display-name lang="id">Sportstars 3 - [Channel 99]</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="Sportstars 4 - [Channel 88]">
+    <display-name lang="id">Sportstars 4 - [Channel 88]</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="Sportstars 4 HD - [Channel 424]">
+    <display-name lang="id">Sportstars 4 HD - [Channel 424]</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="Sportstars HD - [Channel 421]">
+    <display-name lang="id">Sportstars HD - [Channel 421]</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="SPOTV - [Channel 307]">
+    <display-name lang="id">SPOTV - [Channel 307]</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="SPOTV 2 - [Channel 308]">
+    <display-name lang="id">SPOTV 2 - [Channel 308]</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="SPOTV 2 HD - [Channel 428]">
+    <display-name lang="id">SPOTV 2 HD - [Channel 428]</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="SPOTV HD - [Channel 427]">
+    <display-name lang="id">SPOTV HD - [Channel 427]</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="Tawaf TV - [Channel 105]">
+    <display-name lang="id">Tawaf TV - [Channel 105]</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="Thrill - [Channel 19]">
+    <display-name lang="id">Thrill - [Channel 19]</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="Trans 7 - [Channel 110]">
+    <display-name lang="id">Trans 7 - [Channel 110]</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="Trans TV - [Channel 87]">
+    <display-name lang="id">Trans TV - [Channel 87]</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="tvN - [Channel 158]">
+    <display-name lang="id">tvN - [Channel 158]</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="tvN HD - [Channel 446]">
+    <display-name lang="id">tvN HD - [Channel 446]</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="tvN Movies - [Channel 25]">
+    <display-name lang="id">tvN Movies - [Channel 25]</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="tvN Movies HD - [Channel 415]">
+    <display-name lang="id">tvN Movies HD - [Channel 415]</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="tvOne - [Channel 97]">
+    <display-name lang="id">tvOne - [Channel 97]</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="TVRI - [Channel 118]">
+    <display-name lang="id">TVRI - [Channel 118]</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="Vision Prime - [Channel 94]">
+    <display-name lang="id">Vision Prime - [Channel 94]</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="Vision Prime HD - [Channel 1]">
+    <display-name lang="id">Vision Prime HD - [Channel 1]</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="Zee Bioskop - [Channel 23]">
+    <display-name lang="id">Zee Bioskop - [Channel 23]</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="Zoomoo - [Channel 39]">
+    <display-name lang="id">Zoomoo - [Channel 39]</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+</tv>
